@@ -2,6 +2,8 @@ Introduction
 ------------
 ### Background
 
+Making this change and creating a PR will trigger a deploy on the Netlify server and give a testing instance of the page.
+
 <p class="ednote">This section is to be developed by the WCAG2ICT Task Force.</p>
 
 ### Guidance in this Document
